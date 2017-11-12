@@ -5,6 +5,8 @@
 
 *.iml
 .idea/*
+.ipynb_checkpoints/*
+
 
 # User-specific stuff:
 .idea/**/workspace.xml
